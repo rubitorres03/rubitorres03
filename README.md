@@ -1,8 +1,10 @@
 ### Hi there 👋
 - 🏫 I'm an undergrad studying Computer Science at San Francisco State University.
 - 🔭 I’m currently working on an e-commerce site in a group project.
-- 🌱 I’m currently learning Javascript and HTML.
+- 🌱 I’m currently learning Javascript.
+- ⚡️ I have experience with Java, Data Structures, HTML, CSS and Linux.
 - 😄 Pronouns: she/her/hers
+  
 
 <!--
 **rubitorres03/rubitorres03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
