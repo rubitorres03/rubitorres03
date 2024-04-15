@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 🏫 I'm an undergrad studying Computer Science at San Francisco State University.
-- 🔭 I’m currently working on an e-commerce site in a group project.
-- 🌱 I’m currently learning Javascript.
-- ⚡️ I have experience with Java, Data Structures, HTML, CSS and Linux.
+- 🌱 I’m currently learning Javascript
 - 😄 Pronouns: she/her/hers
   
 
