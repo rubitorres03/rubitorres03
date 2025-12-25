@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏫 I'm an undergrad studying Computer Science at San Francisco State University.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript.
 - 😄 Pronouns: she/her/hers
   
 
